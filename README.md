@@ -46,4 +46,4 @@ int main() {
 | Telegram  | (https://www.google.com) | 5 минут   |
 
 ## Данный скрипт выводит мое имя
-* username.sh 
+** username.sh 
