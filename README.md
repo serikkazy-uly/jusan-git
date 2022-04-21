@@ -44,3 +44,6 @@ int main() {
 | LinkedIn  | (https://www.google.com) | 3 часа    |
 | WhatsApp  | (https://www.google.com) | 30 минут  |
 | Telegram  | (https://www.google.com) | 5 минут   |
+
+## Данный скрипт выводит мое имя
+* username.sh 
